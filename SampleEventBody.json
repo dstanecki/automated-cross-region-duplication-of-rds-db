@@ -1,0 +1,7 @@
+{
+  "targetRegion": "us-west-2",
+  "crossRegion": "us-east-1",
+  "originDB": "My-origin-database-name",
+  "newDB": "My-new-database-name",
+  "newDBClass": "db.t2.micro"
+}
